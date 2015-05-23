@@ -42,7 +42,7 @@
     <ApplicationIcon>Tic-Tac-Toe-Game.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TicTacToeMoFo.Program</StartupObject>
+    <StartupObject>TicTacToe.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
